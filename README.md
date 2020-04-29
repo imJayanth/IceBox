@@ -19,22 +19,31 @@ If you forgot your password, click _forgot password_ , enter username, mail ID a
 > Passwords here are stored safely.
 
 **Create Password:** Enter the website for which you are creating the password and it suggests a strong password or else you can use your custom password.
+
 **Edit Password:** Enter the website for which you are editing the password and enter the new password.
+
 **Delete Password:** Enter the website for which you are deleting the password.
+
 **Show Passwords:** Shows all websites with their respective passwords.
+
 **Use Password:** Enter the website for which you have to use the password and place the cursor in the field where you have to use the password and press _ok_ to autofill the password.
 
 ## FileSafe
-The files you store here will be encrypted and stored safe using 3-file encryption module and script that uses AES256-CBC to encrypt/decrypt files using passwords and binary streams.
+> The files you store here will be encrypted and stored safe using 3-file encryption module and script that uses AES256-CBC to encrypt/decrypt files using passwords and binary streams.
+
 **Add file:** Choose the file to be uploaded and enter a password for encryption. The list of available files are shown by default.
+
 **View file:** Select the file to be viewed, click _view selected file_ and enter the password to view the file.
+
 **Delete file:** Select the file to be deleted, click _delete selected file_ and enter the password to delete the file.
 
 ## SecretNotes
 > Notes are saved securely. Can also be used as a diary as date and time are stored accurately.
 
 **Write notes:** Add notes by giving a title and write in the content box and save it.
+
 **View notes:** Select the title of the notes to be viewed and click _view this note_ to view.
+
 **Delete notes:** Select the title of the notes to be deleted and click _delete this note_ to delete.
 
 ### Explanation Video

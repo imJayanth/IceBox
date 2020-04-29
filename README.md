@@ -47,4 +47,4 @@ If you forgot your password, click _forgot password_ , enter username, mail ID a
 **Delete notes:** Select the title of the notes to be deleted and click _delete this note_ to delete.
 
 ### Explanation Video
-Watch [Explanation Video](https://drive.google.com/file/d/14S-4tNPZWRizCM974CNbGAb2ro_Bv4Am/view?usp=sharing) to know more about IceBox.
+Watch [Explanation Video](https://drive.google.com/file/d/13vL99n1tcgG3UFJ5Ovr0sb_T9jKMcjiO/view?usp=sharing) to know more about IceBox.

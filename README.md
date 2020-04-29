@@ -1,5 +1,5 @@
 # IceBox Password Manager
-IceBox is a software containing
+> IceBox is a software containing
   - PasswordProtector
   - FileSafe (to store confidential files in encrypted format)
   - SecretNotes (to store confidential information)

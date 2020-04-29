@@ -5,7 +5,7 @@ IceBox is a software containing
   - SecretNotes (to store confidential information)
 
 ### How to use
-> Install the required packages using  **```pip install -r requirements```**
+> Install the required packages using  **```pip install -r requirements.txt```**
 
 Open _IceBoxPasswordManager.pyw_ to get to the login screen. 
 

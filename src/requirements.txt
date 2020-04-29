@@ -1,4 +1,0 @@
-pip install PyQt5
-pip install PyAutoGUI
-pip install easygui
-pip install pyAesCrypt

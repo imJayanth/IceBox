@@ -46,7 +46,7 @@ If you forgot your password, click _forgot password_ , enter username, mail ID a
 
 **Delete notes:** Select the title of the notes to be deleted and click _delete this note_ to delete.
 
-## Authors
+### Authors
   - Jayanth S K -  [@imJayanth](https:/github.com/imJayanth)
   - Deepan N -  [@DeepanNarayanaMoorthy](https://github.com/DeepanNarayanaMoorthy)
 
